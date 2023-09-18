@@ -18,6 +18,7 @@ This data_file.xlsx file contains the participant details. We will fill these de
 Output : Certificates folder
 This folder contains all the certificates in png format that is being created and stored over there.
 
+Youtube Link : https://youtu.be/S1dOf6_Sg2c
 
 
 
